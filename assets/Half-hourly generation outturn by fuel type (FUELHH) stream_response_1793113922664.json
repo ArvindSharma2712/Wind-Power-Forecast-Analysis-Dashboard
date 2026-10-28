@@ -1,0 +1,11 @@
+{
+  "type": "https://tools.ietf.org/html/rfc9110#section-15.5.1",
+  "title": "One or more validation errors occurred.",
+  "status": 400,
+  "errors": {
+    "": [
+      "The Settlement Date fields cannot be set when a Publish Date field is set."
+    ]
+  },
+  "traceId": "00-10b54e944ecec24ba73804d4cb9295f8-507af06368374705-00"
+}
